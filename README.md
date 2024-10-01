@@ -1,3 +1,14 @@
+# Covid19 Patient Tracking Program
+
+## This is a patient tracking program designed for the Covid19 virus. It is a small automation system and is still under development.
+
+## Features
+
+## - Login Panel
+## - Homepage
+## - Add Patient
+## - Edit Patient
+
 # Covid19 Hasta Takip Programı
 
 ## Covid19 virüsü için hazırlanmış hasta takip programıdır minik bir otomasyondur hala geliştirilme aşamasındadır.
